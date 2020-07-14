@@ -1,0 +1,6 @@
+﻿  gameloop.cpp
+c:\users\ryanw\documents\work\github\sdl2-game\2d shooter\2d shooter\enemy.h(37): warning C4150: deletion of pointer to incomplete type 'Enemy'; no destructor called
+  c:\users\ryanw\documents\work\github\sdl2-game\2d shooter\2d shooter\enemy.h(17): note: see declaration of 'Enemy'
+c:\users\ryanw\documents\work\github\sdl2-game\2d shooter\2d shooter\enemy.h(38): warning C4150: deletion of pointer to incomplete type 'Spaceship'; no destructor called
+  c:\users\ryanw\documents\work\github\sdl2-game\2d shooter\2d shooter\enemy.h(18): note: see declaration of 'Spaceship'
+  2D Shooter.vcxproj -> C:\Users\RyanW\Documents\Work\GitHub\SDL2-Game\2D Shooter\Debug\2D Shooter.exe
